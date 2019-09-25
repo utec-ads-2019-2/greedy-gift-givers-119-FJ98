@@ -1,0 +1,3 @@
+/home/felix/ADS-20192/UVA-PROBLEMS/greedy-gift-givers-119-FJ98/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/felix/ADS-20192/UVA-PROBLEMS/greedy-gift-givers-119-FJ98/cmake-build-debug/CMakeFiles/greedy_gift_givers_119_FJ98.dir
+/home/felix/ADS-20192/UVA-PROBLEMS/greedy-gift-givers-119-FJ98/cmake-build-debug/CMakeFiles/edit_cache.dir
